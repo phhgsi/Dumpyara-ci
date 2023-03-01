@@ -1,7 +1,7 @@
 env:
   # Telegram
-  TG_CHAT: "@DumprXDumps"
-  TG_TOKEN: ENCRYPTED[d97b38fc916f5b418bdee35179170de5a921ccc7aef4bbdf33548a75cdb5e874cfeef6e4869526dd4ebf308a9fcdd2df]
+  TG_CHAT: "@dump_rom_bot"
+  TG_TOKEN: 6190174543:AAGklDrWZ2TXoTb6isAYq82z6WAAf7F6SsY
   
   # Gitlab
   PUSH_TO_GITLAB: true
